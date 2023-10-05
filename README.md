@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A fullstack developer from Portugal</h3>
 
-- 🔭 I’m currently working on [CapeNCoat](https://github.com/quppety/Cape-Coat)
+- 🔭 I’m currently working on [CapeNCoat](https://github.com/quppety/Cape-n-Coat)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -20,7 +20,7 @@
 
 <ul align="left">
 <li> <strong>Frontend</strong>: JavaScript, TypeScript, React, Hooks, Redux (Thunk, Toolkit), HTML5, CSS3</li>
-<li> <strong>Backend</strong>: Node.js, Express, Sessions/Tokens, CORS</li>
+<li> <strong>Backend</strong>: Node.js, Express, Sessions/Tokens</li>
 <li> <strong>Databases</strong>: PostgreSQL, Sequelize ORM</li>
 <li> <strong>Others</strong>: Jest, REST </li>
 </ul>
